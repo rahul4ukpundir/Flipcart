@@ -1,12 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿#nullable disable;
 
-
-#nullable disable
-namespace Flipkart.Products.Model
+namespace Flipkart.Products.DTO
 {
-    public class Product
+    public class ProductDTO
     {
-        [Key]
         public int ProductId { get; set; }
         public string ProductName { get; set; }
 

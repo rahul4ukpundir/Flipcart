@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a9fb9fe-72c4-4003-8945-a3852d4100ca": {
+      "ProjectGuid": "1a9fb9fe-72c4-4003-8945-a3852d4100ca",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "5322ebfc-eee1-4032-bd66-106e84cecdac": {
+      "ProjectGuid": "5322ebfc-eee1-4032-bd66-106e84cecdac",
+      "DisplayName": "Flipkart.Products",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
